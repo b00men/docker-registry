@@ -1,3 +1,9 @@
+# DEPRECATED and will be removed in soon
+
+**For docker stack much better use a bundle:**
+- native_registry
+- traefik (letsencrypt+base_authentication)
+
 # docker-registry
 Self signed docker registry with hardcoded credentials
 
